@@ -30,9 +30,16 @@
 
 **Q.1.2.1**
 
+![Capture d'écran 2025-01-17 112532](https://github.com/user-attachments/assets/8bd055d3-9c9f-4194-8677-d9a2f985aa5e)
+
 **Q.1.2.2**
 
+![Capture d'écran 2025-01-17 112746](https://github.com/user-attachments/assets/5cef5d22-9362-45a9-96fa-687e587d709c)
+
+
 **Q.1.2.3**
+
+![Capture d'écran 2025-01-17 111922](https://github.com/user-attachments/assets/ba283111-c51d-4c40-af09-24da29e236e1)
 
 # Partie 3 : Lecteurs réseaux
 
