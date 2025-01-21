@@ -9,7 +9,7 @@
 Les préconisations que je proposes concernant ce compte :
 - Utilisation d'un **mot de passe complexe** avec des majuscules, minuscules, chiffres et symboles
 - Application des **principes de moindre privilège** :
-  - Utilisation du nouveau compte créé à la place de root (moins de privilèges)
+  - Accès uniquement aux ressources dont il a besoin
   - Utilisation des mécanismes d'élévation temporaire de privilèges (sudo)
     
 # Partie 2 : Configuration de SSH
