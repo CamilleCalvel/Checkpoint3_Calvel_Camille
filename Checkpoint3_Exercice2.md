@@ -32,11 +32,11 @@ Les préconisations que je proposes concernant ce compte :
 
 **Q.2.3.1**
 
-![Capture d'écran 2025-01-17 124602](https://github.com/user-attachments/assets/95cba92c-fce4-482a-82ac-6a66476d0e5b)
+![Capture d'écran 2025-01-17 125005](https://github.com/user-attachments/assets/0bf4620a-7b54-4166-ae7e-5083aaa987a3)
 
 **Q.2.3.2**
 
-![Capture d'écran 2025-01-17 125005](https://github.com/user-attachments/assets/0bf4620a-7b54-4166-ae7e-5083aaa987a3)
+![Capture d'écran 2025-01-21 170443](https://github.com/user-attachments/assets/c4dc3900-9d3b-4884-9a66-e399564d3623)
 
 **Q.2.3.3**
 
@@ -81,3 +81,4 @@ Il n'y a pas de communications interdites
 # Partie 6 : Analyse de logs
 
 **Q.2.6.1**
+journalctl -u ssh | grep 'Failed password' | tail -n 10
