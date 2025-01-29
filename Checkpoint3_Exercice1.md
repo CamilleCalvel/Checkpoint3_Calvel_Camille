@@ -45,5 +45,6 @@
 
 ### **Q.1.3.1**  
 
-![Capture d'écran 2025-01-29 104137](https://github.com/user-attachments/assets/3c1b3ef1-9058-4a43-b21f-a5432d75a5e8)
-![Capture d'écran 2025-01-29 105847](https://github.com/user-attachments/assets/d95ef8f0-c747-4599-81a0-e8906d56e1bc)
+![Capture d'écran 2025-01-29 104137](https://github.com/user-attachments/assets/3c1b3ef1-9058-4a43-b21f-a5432d75a5e8)  
+<img src="https://github.com/user-attachments/assets/d95ef8f0-c747-4599-81a0-e8906d56e1bc" width="1200">
+
